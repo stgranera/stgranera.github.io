@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+.newspaper{-webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+ 
+}
+
+
+div {
+  column-count: 2;
+  column-gap: 0px;
+  column-width: 0px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 40%;
+}
+
+body{ color: lightgrey;
+
+}
+
+
+}
